@@ -36,3 +36,6 @@ This repository contains the source code for a web application that performs doc
 
 3. Run the Flask app
    python app.py
+   
+Files like sports.txt,politics.txt,entertainment.txt are all testing data
+Fine tuning is done on news_dataa.csv 
