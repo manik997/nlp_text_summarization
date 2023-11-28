@@ -1,0 +1,1809 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:39:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:39:57] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:39:57] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:40:12] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:40:31] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:41:10] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:41:17] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:41:43] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:42:23] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 18:43:02] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:22] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:22] "GET /static/script.js HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:41] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:49] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:52] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:02:59] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:20] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:20] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:27] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:36] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:39] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:03:46] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:04:45] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:04:46] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'Summarizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:05:33] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:08:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:08:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:08:49] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:08:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: NLTK tokenizers are missing or the language is not supported.
+Download them by following command: python -c "import nltk; nltk.download('punkt')"
+Original error was:
+
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/manikmalhotra/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/share/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:09:00] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: NLTK tokenizers are missing or the language is not supported.
+Download them by following command: python -c "import nltk; nltk.download('punkt')"
+Original error was:
+
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/manikmalhotra/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/share/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:09:05] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: NLTK tokenizers are missing or the language is not supported.
+Download them by following command: python -c "import nltk; nltk.download('punkt')"
+Original error was:
+
+**********************************************************************
+  Resource [93mpunkt[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt/PY3/english.pickle[0m
+
+  Searched in:
+    - '/Users/manikmalhotra/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/share/nltk_data'
+    - '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/nltk_data'
+    - '/usr/share/nltk_data'
+    - '/usr/local/share/nltk_data'
+    - '/usr/lib/nltk_data'
+    - '/usr/local/lib/nltk_data'
+    - ''
+**********************************************************************
+
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:09:30] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:18:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:18:16] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:18:16] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:18:33] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:30:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:30:52] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:30:52] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:31:14] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 19:31:18] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:18] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:18] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:05:33] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:06:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:08:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:08:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:08:44] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:08:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:08:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [22/Nov/2023 20:08:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:27:19] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:34:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:34:41] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:34:41] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:35:01] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 13:35:05] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 15:38:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 15:38:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 15:38:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 15:38:57] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Nov/2023 15:39:00] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 22:00:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 22:00:12] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 22:00:12] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 22:01:36] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 22:01:42] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [24/Nov/2023 22:02:38] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 14:50:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 14:50:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 14:50:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 14:50:54] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: name 'fine_tuned_tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 14:51:01] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in text classification: name 'fine_tuned_tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 14:51:05] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 16:59:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 16:59:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 16:59:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:00:56] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:01] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:27] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:39] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:46] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:48] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:50] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:52] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:01:57] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:02:06] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:02:11] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:02:14] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:20] "GET /static/script.js HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:36] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:40] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:41] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:42] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:11:52] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:12:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:12:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:12:00] "GET /static/script.js HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 17:12:02] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:16:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:16:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:16:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:16:59] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:17:06] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:17:07] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [25/Nov/2023 18:17:34] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 15:43:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 15:43:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 15:43:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 15:43:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 15:43:38] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:00:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:00:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:00:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:00:54] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:01:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:01:05] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:01:06] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:01:07] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: list index out of range
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:01:08] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:10:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:10:17] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:10:17] "GET /static/script.js HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:10:20] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:10:26] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:12:00] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:33:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:33:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:33:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:33:30] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:31] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:31] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:44] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:47] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:47] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:47] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:53] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:55] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:56] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:56] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:56] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:57] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:58] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:58] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Nov/2023 16:36:59] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:35:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:35:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:35:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:36:51] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:36:55] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:14] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:22] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:24] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:52] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:44:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:45:01] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:45:02] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:47:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:47:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:47:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:48:18] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:48:20] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:49:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:49:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:49:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:49:41] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:50:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:50:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:50:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:50:08] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:50:13] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:51:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:51:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:51:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 11:51:58] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:17:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:17:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:17:09] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:17:28] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:18:11] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:18:47] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:19:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:19:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:19:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:19:56] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:21:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:21:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:21:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:21:38] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:10] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:11] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:12] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:12] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:13] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:13] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:23:18] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:08] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:10] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:11] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:22] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:24] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:24] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:24:26] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+ERROR:root:Error in summarization: name 'nlp' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:27:05] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:34:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:34:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:34:13] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:34:16] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:34:25] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:36:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:36:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:36:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarization: name 'tokenizer_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:36:21] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:38:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:38:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:38:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:38:36] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:40:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:40:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:40:09] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: stat: path should be string, bytes, os.PathLike or integer, not NoneType
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:40:17] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:42:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:42:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:42:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: __init__() missing 1 required positional argument: 'vocab_file'
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:42:15] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:44:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:44:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:44:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: __init__() missing 1 required positional argument: 'vocab_file'
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:44:31] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:51:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:51:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:51:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:51:26] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:56:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:56:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:56:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: too many indices for tensor of dimension 2
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 12:56:32] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: name 'BartTokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:21] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarize_document: name 'BartTokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:25] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarize_document: name 'BartTokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:25] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarize_document: name 'BartTokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:26] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in summarize_document: name 'BartTokenizer' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:00:27] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:12:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:12:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:12:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in summarize_document: name 'model_summarization' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:12:17] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:33] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:16:40] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:17:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:17:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:17:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:17:28] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:17:34] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:18:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:18:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:18:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:18:58] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:19:03] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:21:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:21:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:21:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:21:27] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:21:43] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:23:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:23:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:23:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:23:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:23:29] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:23:33] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:27] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:24:58] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:25:06] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:26:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:26:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:26:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:26:26] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:26:31] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:27:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:27:45] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:27:45] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:28:19] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:28:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:28:42] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:28:42] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:28:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:29:08] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:35] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:53] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:30:53] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:31:20] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:31:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:31:37] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:31:37] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:31:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:31:58] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:32:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:32:43] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:32:43] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:33:04] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:33:45] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:35:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:35:51] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:35:51] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:36:06] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:36:13] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:39:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:39:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:39:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:39:26] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:39:33] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:15] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:15] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:40:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:41:00] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:41:07] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:41:17] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:42:20] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:49:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:49:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:49:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:50:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:50:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:50:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:50:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:50:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:50:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:51:18] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in classify_document_with_fine_tuned_model: name 'label_encoder' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 13:51:23] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:04:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in classify_document_with_fine_tuned_model: name 'label_encoder' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:04:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:16:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:16:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:16:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:16:39] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in classify_document_with_fine_tuned_model: name 'label_encoder' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:16:54] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:19:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:19:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:20:09] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:20:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:20:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:20:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in text classification: name 'label_encoder' is not defined
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:20:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/fine_tune.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:45:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:45:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:45:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:45:44] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:45:51] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:48:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:48:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:48:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:48:45] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:50:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:50:46] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:50:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:50:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:51:01] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:51:01] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:51:03] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:51:06] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:53:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:53:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:53:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:53:52] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:53:57] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:54:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:54:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:54:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:54:43] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:55:02] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:55:07] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:59:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:59:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:59:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:59:25] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 14:59:26] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:03:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:03:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:03:09] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:03:27] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:03:31] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:04:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:04:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:04:00] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:04:03] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:08:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:08:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:08:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:08:29] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:08:32] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:09:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:09:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:09:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:10:18] "POST /summarize HTTP/1.1" 200 -
+ERROR:root:Error in text classification: classify_document_with_fine_tuned_model() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:10:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:15:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:15:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:15:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:15:41] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:15:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:16:53] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:17:07] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:18:17] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:18:23] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:18:32] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:18:37] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:18:56] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:19:04] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:19:23] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:19:44] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:22:36] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:22:44] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:32:12] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Downloads/document_summarization/app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:33:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:33:23] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:33:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:33:37] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:33:46] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:38:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:38:48] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:38:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:39:18] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:39:23] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 15:39:28] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:04:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:04:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:04:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:04:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:05:01] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:05:09] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:06:08] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:09:50] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:09:52] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:09:53] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:10:14] "POST /classify HTTP/1.1" 200 -
+ERROR:root:Error in summarize_document: (ProtocolError('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer')), '(Request ID: 04b865b0-d21c-4b86-980b-72f6d5fb637a)')
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:20:46] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:22:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:22:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:22:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:22:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:22:36] "POST /summarize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Nov/2023 16:22:48] "POST /classify HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/__about__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/__about__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/apply_func.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/apply_func.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/enums.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/enums.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/imports.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/imports.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/inheritance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/inheritance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/overrides.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/overrides.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/rank_zero.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/core/rank_zero.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/docs/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/docs/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/docs/formatting.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/docs/formatting.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/docs/retriever.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/docs/retriever.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/install/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/install/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/install/requirements.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/install/requirements.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/test/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/test/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/test/warning.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/lightning_utilities/test/warning.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/__about__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/__about__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/aggregation.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/aggregation.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/collections.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/collections.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/metric.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/metric.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/pesq.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/pesq.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/pit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/pit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/sdr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/sdr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/snr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/snr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/srmr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/srmr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/stoi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/audio/stoi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/accuracy.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/accuracy.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/auroc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/auroc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/base.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/base.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/calibration_error.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/calibration_error.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/cohen_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/cohen_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/confusion_matrix.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/confusion_matrix.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/dice.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/dice.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/exact_match.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/exact_match.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/f_beta.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/f_beta.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/group_fairness.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/group_fairness.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/hamming.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/hamming.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/hinge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/hinge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/jaccard.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/jaccard.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/matthews_corrcoef.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/matthews_corrcoef.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/precision_fixed_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/precision_fixed_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/precision_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/precision_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/ranking.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/ranking.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/recall_fixed_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/recall_fixed_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/roc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/roc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/specificity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/specificity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/specificity_sensitivity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/specificity_sensitivity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/stat_scores.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/classification/stat_scores.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/adjusted_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/adjusted_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/adjusted_rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/adjusted_rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/calinski_harabasz_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/calinski_harabasz_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/davies_bouldin_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/davies_bouldin_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/dunn_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/dunn_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/fowlkes_mallows_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/fowlkes_mallows_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/homogeneity_completeness_v_measure.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/homogeneity_completeness_v_measure.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/normalized_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/normalized_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/clustering/rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/_mean_ap.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/_mean_ap.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/ciou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/ciou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/diou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/diou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/giou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/giou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/iou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/iou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/mean_ap.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/mean_ap.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/panoptic_qualities.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/detection/panoptic_qualities.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/pesq.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/pesq.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/pit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/pit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/sdr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/sdr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/snr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/snr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/srmr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/srmr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/stoi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/audio/stoi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/accuracy.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/accuracy.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/auroc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/auroc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/calibration_error.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/calibration_error.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/cohen_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/cohen_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/confusion_matrix.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/confusion_matrix.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/dice.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/dice.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/exact_match.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/exact_match.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/f_beta.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/f_beta.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/group_fairness.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/group_fairness.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/hamming.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/hamming.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/hinge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/hinge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/jaccard.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/jaccard.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/matthews_corrcoef.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/matthews_corrcoef.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/precision_fixed_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/precision_fixed_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/precision_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/precision_recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/ranking.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/ranking.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/recall_fixed_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/recall_fixed_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/roc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/roc.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/specificity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/specificity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/specificity_sensitivity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/specificity_sensitivity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/stat_scores.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/classification/stat_scores.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/adjusted_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/adjusted_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/adjusted_rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/adjusted_rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/calinski_harabasz_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/calinski_harabasz_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/davies_bouldin_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/davies_bouldin_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/dunn_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/dunn_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/fowlkes_mallows_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/fowlkes_mallows_index.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/homogeneity_completeness_v_measure.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/homogeneity_completeness_v_measure.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/normalized_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/normalized_mutual_info_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/rand_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/utils.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/clustering/utils.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/_panoptic_quality_common.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/_panoptic_quality_common.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/ciou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/ciou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/diou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/diou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/giou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/giou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/iou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/iou.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/panoptic_qualities.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/detection/panoptic_qualities.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/d_lambda.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/d_lambda.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/ergas.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/ergas.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/gradients.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/gradients.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/helper.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/helper.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/lpips.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/lpips.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/perceptual_path_length.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/perceptual_path_length.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/psnr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/psnr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/psnrb.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/psnrb.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/rase.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/rase.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/rmse_sw.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/rmse_sw.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/sam.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/sam.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/ssim.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/ssim.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/tv.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/tv.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/uqi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/uqi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/vif.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/image/vif.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/multimodal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/multimodal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/multimodal/clip_iqa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/multimodal/clip_iqa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/multimodal/clip_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/multimodal/clip_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/cramers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/cramers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/fleiss_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/fleiss_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/theils_u.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/theils_u.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/tschuprows.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/tschuprows.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/utils.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/nominal/utils.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/cosine.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/cosine.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/euclidean.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/euclidean.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/helpers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/linear.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/linear.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/manhattan.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/manhattan.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/minkowski.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/pairwise/minkowski.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/concordance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/concordance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/cosine_similarity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/cosine_similarity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/explained_variance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/explained_variance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/kendall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/kendall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/kl_divergence.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/kl_divergence.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/log_cosh.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/log_cosh.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/log_mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/log_mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/mae.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/mae.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/minkowski.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/minkowski.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/r2.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/r2.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/rse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/rse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/spearman.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/spearman.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/symmetric_mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/symmetric_mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/tweedie_deviance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/tweedie_deviance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/utils.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/utils.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/wmape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/regression/wmape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/fall_out.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/fall_out.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/hit_rate.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/hit_rate.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/ndcg.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/ndcg.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/r_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/r_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/reciprocal_rank.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/retrieval/reciprocal_rank.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/bert.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/bert.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/cer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/cer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/chrf.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/chrf.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/edit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/edit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/eed.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/eed.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/helper.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/helper.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/helper_embedding_metric.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/helper_embedding_metric.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/infolm.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/infolm.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/mer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/mer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/perplexity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/perplexity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/rouge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/rouge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/sacre_bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/sacre_bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/squad.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/squad.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/ter.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/ter.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/wer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/wer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/wil.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/wil.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/wip.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/functional/text/wip.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/d_lambda.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/d_lambda.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/ergas.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/ergas.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/fid.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/fid.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/inception.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/inception.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/kid.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/kid.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/lpip.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/lpip.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/mifid.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/mifid.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/perceptual_path_length.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/perceptual_path_length.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/psnr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/psnr.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/psnrb.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/psnrb.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/rase.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/rase.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/rmse_sw.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/rmse_sw.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/sam.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/sam.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/ssim.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/ssim.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/tv.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/tv.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/uqi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/uqi.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/vif.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/image/vif.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/multimodal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/multimodal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/multimodal/clip_iqa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/multimodal/clip_iqa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/multimodal/clip_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/multimodal/clip_score.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/cramers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/cramers.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/fleiss_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/fleiss_kappa.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/theils_u.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/theils_u.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/tschuprows.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/nominal/tschuprows.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/concordance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/concordance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/cosine_similarity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/cosine_similarity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/explained_variance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/explained_variance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/kendall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/kendall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/kl_divergence.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/kl_divergence.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/log_cosh.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/log_cosh.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/log_mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/log_mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/mae.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/mae.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/minkowski.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/minkowski.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/mse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/pearson.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/r2.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/r2.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/rse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/rse.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/spearman.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/spearman.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/symmetric_mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/symmetric_mape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/tweedie_deviance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/tweedie_deviance.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/wmape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/regression/wmape.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/average_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/base.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/base.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/fall_out.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/fall_out.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/hit_rate.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/hit_rate.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/ndcg.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/ndcg.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/precision_recall_curve.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/r_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/r_precision.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/recall.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/reciprocal_rank.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/retrieval/reciprocal_rank.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/_deprecated.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/bert.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/bert.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/cer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/cer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/chrf.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/chrf.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/edit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/edit.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/eed.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/eed.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/infolm.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/infolm.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/mer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/mer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/perplexity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/perplexity.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/rouge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/rouge.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/sacre_bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/sacre_bleu.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/squad.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/squad.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/ter.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/ter.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/wer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/wer.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/wil.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/wil.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/wip.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/text/wip.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/checks.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/checks.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/compute.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/compute.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/data.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/data.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/distributed.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/distributed.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/enums.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/enums.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/exceptions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/exceptions.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/imports.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/imports.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/plot.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/plot.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/prints.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/utilities/prints.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/abstract.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/abstract.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/bootstrapping.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/bootstrapping.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/classwise.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/classwise.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/minmax.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/minmax.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/multioutput.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/multioutput.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/multitask.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/multitask.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/running.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/running.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/tracker.py', reloading
+INFO:werkzeug: * Detected change in '/Users/manikmalhotra/Desktop/anaconda/anaconda3/lib/python3.9/site-packages/torchmetrics/wrappers/tracker.py', reloading
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (fsevents)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 937-282-349
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:18:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:18:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:26:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:26:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:26:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:28:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:28:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:28:55] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:28:55] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:37:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:37:39] "GET /static/styles.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:37:39] "GET /static/script.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:37:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:41:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:41:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Nov/2023 13:41:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -

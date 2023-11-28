@@ -1,0 +1,36 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Summarization</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Document Summarization</h1>
+        </header>
+        <label for="uploadFile" class="custom-upload-btn">Upload File</label>
+        <input type="file" id="uploadFile" accept=".txt" />
+        <textarea id="document" placeholder="Enter your document..."></textarea>
+        <button id="summarize">Summarize</button>
+        <button id="classify">Classify</button>
+        <button id="clear">Reset</button>
+        <div id="loading">Processing...</div>
+        <section>
+            <h2 id="summary-label">Summary:</h2>
+            <p id="summary"></p>
+        </section>
+        <section id="word-freq"></section>
+        <section id="entities"></section>
+        <section id="length-info"></section>
+        <section id="classification-output"></section>
+        <div id="error-message"></div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
